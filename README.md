@@ -1,2 +1,0 @@
-# agusto
-Aprendiendo a programar.
